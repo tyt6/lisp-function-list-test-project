@@ -83,8 +83,8 @@
   (find-files `(,base "-name" "*.asd")))
 
 
-(defvar sources '("/home/mz/.sbcl/source/"
-                "/home/mz/share/lib/lisp/"
+(defvar sources '("/home/tyt/.sbcl/source/"
+                "/home/tyt/share/lib/lisp/"
                   ))
 
 (defun get-lisp-symbols ()
@@ -114,7 +114,7 @@
             (setf ht (totalize! ht (file->functions3 file))))))
     ;;(dolist* ((key . val) (hash-table->alist ht))
     ;;  (format t "~a ~a ~%" (string-downcase key) val))
-    (with-output-file (o "/home/mz/db/lisp-functions2.lisp")
+    (with-output-file (o "/home/tyt/db/lisp-functions2.lisp")
       (dolist* ((key . val) (take%-by-hash-table ht 0.8 nil))
         (format o ";; ~a ~a ~%" (string-downcase key) val)))))
 	
