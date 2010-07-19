@@ -1,0 +1,43 @@
+        <DT><A HREF="http://www.nicovideo.jp/ranking/mylist/hourly/all?rss=2.0" ADD_DATE="1250509890" LAST_MODIFIED="1279529301" LAST_CHARSET="UTF-8">カテゴリ合算のマイリストランキング(毎時)‐ニコニコ動画(9)</A>
+        <DT><A HREF="http://d.hatena.ne.jp/youz/rss2" ADD_DATE="1276429758" LAST_MODIFIED="1279506950" LAST_CHARSET="UTF-8">* *scrap*</A>
+        <DT><A HREF="http://bc.tech.coop/blog/rss.xml" ADD_DATE="1274272492" LAST_MODIFIED="1279523914" LAST_CHARSET="UTF-8">Bill Clementson&#39;s Blog</A>
+        <DT><A HREF="http://d.hatena.ne.jp/mjt/rss2" ADD_DATE="1276429620" LAST_MODIFIED="1279506949" LAST_CHARSET="UTF-8">.mjtの日記復帰計画</A>
+        <DT><A HREF="http://www.emacswiki.org/emacs/?action=rss" ADD_DATE="1275123757" LAST_MODIFIED="1279506947" LAST_CHARSET="UTF-8">EmacsWiki: 更新履歴</A>
+        <DT><A HREF="http://practical-scheme.net/chaton/gauche/var/index.rdf" ADD_DATE="1278788288" LAST_MODIFIED="1279506957" ICON_URI="http://practical-scheme.net/favicon.ico" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABKUlEQVQ4jaXSzyuDARzH8Z2eOWo5OfoHRLk5yenZaW2H3ZSLH0moPc/BWi3ayWYHGVFaZGlJ2EFMKAeph4tkW2FM87A9sRrZprebKNmeZ4f35dO31+lrkkSBejL9NbrtFmZGO/H3txoDEsouybM4mZTCTtijH4gtyshWM76eFp4zSf3Az15yD3gcTcaBTEphTu42Bix5bQBsL7j0A+O2RjQ1TT57zflBRD9wGJ3ivfhKYLCdp/srfUBgoI1KucTG7DCSKKCpadx2S22AbDVzc3HMXeIU2dqAJApcnsQIubpqA6LBPj4rZYJDHd/b3uokW/Nj1QGvs5liIcfR+vSvo/CEA2V/5X9gzd9LIZ8FQHu8ZdnnRBIFNkMjaGqa0scb8YhP/yNVq27gC2nDBovckOEoAAAAAElFTkSuQmCC" LAST_CHARSET="UTF-8">Gauche</A>
+        <DT><A HREF="http://blog.practical-scheme.net/gauche?c=rss" ADD_DATE="1272379125" LAST_MODIFIED="1279523903" LAST_CHARSET="UTF-8">Gauche Devlog</A>
+        <DT><A HREF="http://beta-reduction.blogspot.com/feeds/posts/default" ADD_DATE="1277214928" LAST_MODIFIED="1279506949" LAST_CHARSET="UTF-8">How To Become A Hacker</A>
+        <DT><A HREF="http://d.hatena.ne.jp/IMAKADO/rss2" ADD_DATE="1274273651" LAST_MODIFIED="1279506941" LAST_CHARSET="UTF-8">IMAKADO::BLOG</A>
+        <DT><A HREF="http://itpro.nikkeibp.co.jp/rss/ITpro.rdf" ADD_DATE="1271950533" LAST_MODIFIED="1279523894" LAST_CHARSET="UTF-8">ITpro総合</A>
+        <DT><A HREF="http://blog.practical-scheme.net/shiro?c=rss" ADD_DATE="1272050765" LAST_MODIFIED="1279523899" LAST_CHARSET="UTF-8">Island Life</A>
+        <DT><A HREF="http://lambda-the-ultimate.org/rss.xml" ADD_DATE="1274007835" LAST_MODIFIED="1279523910" LAST_CHARSET="UTF-8">Lambda the Ultimate - Programming Languages Weblog</A>
+        <DT><A HREF="http://lispjobs.wordpress.com/feed/" ADD_DATE="1273072396" LAST_MODIFIED="1279523904" LAST_CHARSET="UTF-8">Lispjobs</A>
+        <DT><A HREF="http://planet.lisp.org/rss20.xml" ADD_DATE="1274272448" LAST_MODIFIED="1279523914" LAST_CHARSET="UTF-8">Planet Lisp</A>
+        <DT><A HREF="http://rondam.blogspot.com/feeds/posts/default" ADD_DATE="1274272977" LAST_MODIFIED="1279523916" LAST_CHARSET="UTF-8">Rondam Ramblings</A>
+        <DT><A HREF="http://sputniko.com/blog/feed/" ADD_DATE="1278514577" LAST_MODIFIED="1279506956" LAST_CHARSET="UTF-8">Sputniko!</A>
+        <DT><A HREF="http://tkpapp.blogspot.com/feeds/posts/default" ADD_DATE="1274201173" LAST_MODIFIED="1279523912" LAST_CHARSET="UTF-8">Tamas K Papp&#39;s blog</A>
+        <DT><A HREF="http://xach.livejournal.com/data/rss" ADD_DATE="1274272565" LAST_MODIFIED="1279523914" LAST_CHARSET="UTF-8">Zach&#39;s Journal</A>
+        <DT><A HREF="http://carcaddar.blogspot.com/feeds/posts/default" ADD_DATE="1273309309" LAST_MODIFIED="1279523905" LAST_CHARSET="UTF-8">a CONS is an object which cares</A>
+        <DT><A HREF="http://cyrusharmon.org/blog/archives.rss" ADD_DATE="1274272907" LAST_MODIFIED="1279523916" LAST_CHARSET="UTF-8">cyrusharmon.org</A>
+        <DT><A HREF="http://practical-scheme.net/chaton/haskell-ja/var/index.rdf" ADD_DATE="1278788353" LAST_MODIFIED="1279506957" ICON_URI="http://practical-scheme.net/favicon.ico" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABKUlEQVQ4jaXSzyuDARzH8Z2eOWo5OfoHRLk5yenZaW2H3ZSLH0moPc/BWi3ayWYHGVFaZGlJ2EFMKAeph4tkW2FM87A9sRrZprebKNmeZ4f35dO31+lrkkSBejL9NbrtFmZGO/H3txoDEsouybM4mZTCTtijH4gtyshWM76eFp4zSf3Az15yD3gcTcaBTEphTu42Bix5bQBsL7j0A+O2RjQ1TT57zflBRD9wGJ3ivfhKYLCdp/srfUBgoI1KucTG7DCSKKCpadx2S22AbDVzc3HMXeIU2dqAJApcnsQIubpqA6LBPj4rZYJDHd/b3uokW/Nj1QGvs5liIcfR+vSvo/CEA2V/5X9gzd9LIZ8FQHu8ZdnnRBIFNkMjaGqa0scb8YhP/yNVq27gC2nDBovckOEoAAAAAElFTkSuQmCC" LAST_CHARSET="UTF-8">haskell-ja</A>
+        <DT><A HREF="http://b.hatena.ne.jp/koizuka/rss" ADD_DATE="1250511797" LAST_MODIFIED="1279542836" LAST_CHARSET="UTF-8">koizuka(戀塚昭彦)のブックマーク</A>
+        <DT><A HREF="http://feeds.feedburner.com/blogspot/rztf" ADD_DATE="1272993193" LAST_MODIFIED="1279523904" LAST_CHARSET="UTF-8">letter</A>
+        <DT><A HREF="http://d.hatena.ne.jp/quek/rss2" ADD_DATE="1272980893" LAST_MODIFIED="1279523904" ICON_URI="http://d.hatena.ne.jp/favicon.ico" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAQklEQVQ4jWNgoAZoXfrrP6k4qPL5fxQDgiqfk4S14k/S0ABsgCwDcPFJNgCb2EgzgOxAJDsa6Z8SYQKkYiLzKn4AAIaFPVtxSvZxAAAAAElFTkSuQmCC" LAST_CHARSET="UTF-8">letter</A>
+        <DT><A HREF="http://www29.atwiki.jp/sicpstudygroup/rss10_new.xml" ADD_DATE="1271945364" LAST_MODIFIED="1279523893" LAST_CHARSET="UTF-8">sicpstudygroup @ ウィキ</A>
+        <DT><A HREF="http://valvallow.blogspot.com/feeds/posts/default?alt=rss" ADD_DATE="1273043974" LAST_MODIFIED="1279523904" LAST_CHARSET="UTF-8">vallog</A>
+        <DT><A HREF="http://hajimete-no-hito-no-tameno-lisp.blogspot.com/feeds/posts/default?alt=rss" ADD_DATE="1274273874" LAST_MODIFIED="1279506943" LAST_CHARSET="UTF-8">「初めての人のためのLISP」を読む</A>
+        <DT><A HREF="http://d.hatena.ne.jp/kazu-yamamoto/rss2" ADD_DATE="1274274373" LAST_MODIFIED="1279506943" LAST_CHARSET="UTF-8">あどけない話</A>
+        <DT><A HREF="http://d.hatena.ne.jp/khiker/rss2" ADD_DATE="1277651669" LAST_MODIFIED="1279506951" ICON_URI="http://d.hatena.ne.jp/favicon.ico" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAQklEQVQ4jWNgoAZoXfrrP6k4qPL5fxQDgiqfk4S14k/S0ABsgCwDcPFJNgCb2EgzgOxAJDsa6Z8SYQKkYiLzKn4AAIaFPVtxSvZxAAAAAElFTkSuQmCC" LAST_CHARSET="UTF-8">とりあえず暇だったし何となく始めたブログ</A>
+        <DT><A HREF="http://www.nicovideo.jp/user/969205/video?rss=2.0" ADD_DATE="1275198035" LAST_MODIFIED="1279506948" ICON_URI="http://www.nicovideo.jp/favicon.ico" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAVElEQVQ4jWP4////X0owAzLHyMjor5GREU7F2OQZiFGIz2CsBhDrIrgBMIWkYhQDSA082hhAikFkuwDdMtqGAb5oJGgAtiijbSxQlJDIjQkUA8jFADqeYG4Bh0bIAAAAAElFTkSuQmCC" LAST_CHARSET="UTF-8">ゆにさんの投稿動画‐ニコニコ動画(9)</A>
+        <DT><A HREF="http://cadr.g.hatena.ne.jp/g000001/rss2" ADD_DATE="1272980385" LAST_MODIFIED="1279523904" LAST_CHARSET="UTF-8">わだばLisperになる</A>
+        <DT><A HREF="http://www.nationalgeographic.co.jp/news/rss.php" ADD_DATE="1272035232" LAST_MODIFIED="1279523895" LAST_CHARSET="UTF-8">ナショナルジオグラフィック ニュース</A>
+        <DT><A HREF="http://www.nicovideo.jp/mylist/17380286?rss=2.0" ADD_DATE="1275717614" LAST_MODIFIED="1279506949" LAST_CHARSET="UTF-8">マイリスト nubewo編集の海外の反応シリーズ動画‐ニコニコ動画(9)</A>
+        <DT><A HREF="http://www.nicovideo.jp/mylist/15072784?rss=2.0" ADD_DATE="1275216020" LAST_MODIFIED="1279506948" LAST_CHARSET="UTF-8">マイリスト うｐ作品‐ニコニコ動画(9)</A>
+        <DT><A HREF="http://www.nicovideo.jp/mylist/10865555?rss=2.0" ADD_DATE="1250508460" LAST_MODIFIED="1279523882" LAST_CHARSET="UTF-8">マイリスト 月刊歌ってみたランキング‐ニコニコ動画(9)</A>
+        <DT><A HREF="http://www.nicovideo.jp/mylist/13069461?rss=2.0" ADD_DATE="1275200072" LAST_MODIFIED="1279506948" LAST_CHARSET="UTF-8">マイリスト 高橋 邦子‐ニコニコ動画(9)</A>
+        <DT><A HREF="http://saiyu.cocolog-nifty.com/zug/rss.xml" ADD_DATE="1275755596" LAST_MODIFIED="1279506949" LAST_CHARSET="UTF-8">最尤日記</A>
+        <DT><A HREF="http://faroffsea.blogspot.com/feeds/posts/default?alt=rss" ADD_DATE="1274273714" LAST_MODIFIED="1279506943" LAST_CHARSET="UTF-8">遠い海</A>
+        <DT><A HREF="http://cadr.g.hatena.ne.jp/ytakenaka/rss2" ADD_DATE="1274273026" LAST_MODIFIED="1279506941" LAST_CHARSET="UTF-8">恐怖のLisp改革</A>
+        <DT><A HREF="http://d.hatena.ne.jp/lemniscus/rss2" ADD_DATE="1278080967" LAST_MODIFIED="1279506956" LAST_CHARSET="UTF-8">再帰の反復</A>
+        <DT><A HREF="http://d.hatena.ne.jp/SaitoAtsushi/rss" ADD_DATE="1272897910" LAST_MODIFIED="1279523903" LAST_CHARSET="UTF-8">主題のない日記</A>
+        <DT><A HREF="http://d.hatena.ne.jp/tanakh/rss2" ADD_DATE="1273427082" LAST_MODIFIED="1279523905" LAST_CHARSET="UTF-8">純粋関数型雑記帳</A>
+        <DT><A HREF="http://d.hatena.ne.jp/yuki_neko_nyan/rss" ADD_DATE="1274273315" LAST_MODIFIED="1279506941" LAST_CHARSET="UTF-8">猫的怠惰Days</A>
